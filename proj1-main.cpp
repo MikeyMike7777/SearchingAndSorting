@@ -21,7 +21,7 @@
 
 #include <iostream>
 #include <fstream>
-#include "proj1-person.hpp"
+#include "proj1-person.h"
 
 using namespace std;
 

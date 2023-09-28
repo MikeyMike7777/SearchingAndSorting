@@ -17,7 +17,7 @@
  * Functions to use on Person array
  */
 
-#include "proj1-person.hpp"
+#include "proj1-person.h"
 
 /**
 -  getAPersonFromStream
