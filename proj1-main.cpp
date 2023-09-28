@@ -35,7 +35,7 @@ int main() {
     string pName;
 
     //open file
-    inputFile.open("people.dat");
+    inputFile.open("./people.dat");
 
     //test stream
     if (!inputFile) {
